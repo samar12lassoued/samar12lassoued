@@ -5,7 +5,9 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=samar12lassoued.repoName)
 
 
-<img src="sammoura.gif"  width="600" height="300">
+<h1 align="center" style="color: #44AEFB;"><img src="sammoura.gif"  width="600" height="300"></h1>
+
+
 
 
 
