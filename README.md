@@ -80,8 +80,8 @@
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
  
-  <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-      <img  alt="gRPC" height="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/grpc/grpc-original.svg"/>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img  alt="Bash" height="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
