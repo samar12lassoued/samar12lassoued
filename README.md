@@ -91,8 +91,8 @@
   </a>
 
 
-  <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
-      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+      <img  alt="Qt" height="50px" style="padding-right:10px;"src="https://github.com/devicons/devicon/blob/v2.15.1/icons/qt/qt-original.svg"/>
 
   
 
