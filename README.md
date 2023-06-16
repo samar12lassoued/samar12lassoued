@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #44AEFB;">Hello, I'm Samar! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center" style="color: #44AEFB;">Hello! I'm Samar ^^ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Embedded Linux Engineer </h3>
 
 
